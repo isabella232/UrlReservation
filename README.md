@@ -4,9 +4,9 @@ A library and GUI for modifying URL reservations in HTTP.SYS.  URL reservations 
 
 **Screen Shots**
 
-![](Home_Url Acl Modifer.png)
+![Home_Url Acl Modifer](Home_Url Acl Modifer.png)
 
-![](Home_Add Reservation.png)
+![Home_Add Reservation](Home_Add Reservation.png)
 
 **Know Issue**
 
